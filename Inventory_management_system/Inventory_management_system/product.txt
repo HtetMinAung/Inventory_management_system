@@ -1,0 +1,6 @@
+Calculator P1 Electronic 34
+Tape P123 Household 12
+Phone P4 Electronic 2
+Bed P5 Furniture 42
+Water_Bottle P6 Household 8
+Iphone15 P1234 Electronic 10
